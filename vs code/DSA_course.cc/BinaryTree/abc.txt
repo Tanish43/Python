@@ -1,0 +1,16 @@
+Binary Tree from postorder and inorder
+Diameter of BT
+Diameter of BT approach
+node to root path
+
+Binary Search Tree:-
+Search in BST
+Find min and max in BST
+Validate BST
+Range sum in BST
+Convert sorted array to BST
+BST class implementation:-
+insert 
+delete
+Search
+print

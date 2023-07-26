@@ -1,0 +1,20 @@
+Code to write :-
+
+linked list->
+merge 2 sorted list
+merge 2 sorted list(recursive)
+merge sort on linked list
+//doubly linked list
+//circular singly linked list
+//circular doubly linked list
+
+
+stacks->
+//stacks using linked list
+//balanced parenthesis
+elvaluate reverse polish notation
+remove all adjacent duplicates
+
+queues->
+//queues using linked list
+//reverse queues
